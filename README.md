@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justintownsend993
-- 👀 I’m interested in Front-End Development/Full Stack Development.
+- 👀 I’m interested in WordPress Development.
 - 📫 How to reach me justintownsend126@gmail.com
 <!---
 justintownsend993/justintownsend993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
